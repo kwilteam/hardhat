@@ -1,10 +1,11 @@
-FROM node:latest
+FROM node:21
 
 WORKDIR /usr/hardhat
 
 COPY . .
 
-# RUN npm install --save-dev hardhat
+# node_modules is in .dockerignore, so we npm install in build:
+RUN npm install --save-dev hardhat
 
 EXPOSE 8545
 
