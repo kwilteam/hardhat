@@ -1645,9 +1645,9 @@ rlp@^2.2.3:
   dependencies:
     bn.js "^5.2.0"
 
-"root@https://github.com/jchappelow/hardhat#input":
+"root@https://github.com/jchappelow/hardhat#dd967bd124f7fb8d1503418ef9c50e9fd68be417":
   version "0.0.0"
-  resolved "https://github.com/jchappelow/hardhat#a8dc73e7301b61c1d271a506cff7730c6ef34db1"
+  resolved "https://github.com/jchappelow/hardhat#dd967bd124f7fb8d1503418ef9c50e9fd68be417"
 
 safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.1, safe-buffer@^5.1.2, safe-buffer@^5.2.0, safe-buffer@~5.2.0:
   version "5.2.1"

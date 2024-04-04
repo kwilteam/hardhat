@@ -7,6 +7,6 @@
     "hardhat": "^2.22.2"
   },
   "dependencies": {
-    "root": "https://github.com/jchappelow/hardhat#input"
+    "root": "https://github.com/jchappelow/hardhat#dd967bd124f7fb8d1503418ef9c50e9fd68be417"
   }
 }
