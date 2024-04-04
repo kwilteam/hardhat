@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "hardhat": "^2.22.2"
+  },
+  "dependencies": {
+    "root": "https://github.com/jchappelow/hardhat#input"
   }
 }
