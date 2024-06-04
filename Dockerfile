@@ -8,7 +8,7 @@ COPY . .
 # RUN npm install --save-dev hardhat
 ##RUN yarn install
 #RUN yarn add hardhat
-RUN yarn && yarn cache clean
+RUN yarn
 
 EXPOSE 8545
 
