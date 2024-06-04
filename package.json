@@ -4,6 +4,6 @@
     "node": "npm x hardhat node"
   },
   "devDependencies": {
-    "hardhat": "^2.22.2"
+    "hardhat": "^2.22.5"
   }
 }
